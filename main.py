@@ -1,6 +1,6 @@
 from highrise import BaseBot, Bot
 
-TOKEN = "467f1ef4bb363f6467c7904bb758260119744f4afa0792a69cec72e620f9ff27"
+TOKEN = ""
 ROOM = "6afa388fe55b07081c029569"
 
 class MiBot(BaseBot):
